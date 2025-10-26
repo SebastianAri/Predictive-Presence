@@ -1,0 +1,14 @@
+{
+  "nn_lat_best_params": {
+    "batch_size": 16,
+    "epochs": 50,
+    "model__dropout_rate": 0.1,
+    "model__units": 128
+  },
+  "nn_lon_best_params": {
+    "batch_size": 16,
+    "epochs": 50,
+    "model__dropout_rate": 0.1,
+    "model__units": 128
+  }
+}

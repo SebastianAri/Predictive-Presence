@@ -1,0 +1,50 @@
+{
+    "nn_lat_best_params_clust_1": {
+        "batch_size": 32,
+        "epochs": 50,
+        "model__dropout_rate": 0.1,
+        "model__units": 64
+    },
+    "nn_lon_best_params_clust_1": {
+        "batch_size": 32,
+        "epochs": 50,
+        "model__dropout_rate": 0.3,
+        "model__units": 64
+    },
+    "nn_lat_best_params_clust_2": {
+        "batch_size": 16,
+        "epochs": 50,
+        "model__dropout_rate": 0.3,
+        "model__units": 64
+    },
+    "nn_lon_best_params_clust_2": {
+        "batch_size": 16,
+        "epochs": 50,
+        "model__dropout_rate": 0.3,
+        "model__units": 64
+    },
+    "nn_lat_best_params_clust_3": {
+        "batch_size": 16,
+        "epochs": 50,
+        "model__dropout_rate": 0.1,
+        "model__units": 128
+    },
+    "nn_lon_best_params_clust_3": {
+        "batch_size": 16,
+        "epochs": 50,
+        "model__dropout_rate": 0.3,
+        "model__units": 128
+    },
+    "nn_lat_best_params_clust_4": {
+        "batch_size": 16,
+        "epochs": 50,
+        "model__dropout_rate": 0.1,
+        "model__units": 128
+    },
+    "nn_lon_best_params_clust_4": {
+        "batch_size": 16,
+        "epochs": 50,
+        "model__dropout_rate": 0.1,
+        "model__units": 128
+    }
+}

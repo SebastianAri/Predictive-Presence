@@ -1,0 +1,18 @@
+{
+  "gb_lat_best_params": {
+    "learning_rate": 0.05,
+    "max_depth": 3,
+    "n_estimators": 200,
+    "n_iter_no_change": 10,
+    "subsample": 1.0,
+    "validation_fraction": 0.1
+  },
+  "gb_lon_best_params": {
+    "learning_rate": 0.05,
+    "max_depth": 4,
+    "n_estimators": 200,
+    "n_iter_no_change": 10,
+    "subsample": 1.0,
+    "validation_fraction": 0.1
+  }
+}
