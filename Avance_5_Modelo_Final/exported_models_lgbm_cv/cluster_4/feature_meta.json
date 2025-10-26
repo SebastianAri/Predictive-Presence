@@ -117,16 +117,16 @@
     "SHIFT4_NIGHT"
   ],
   "columns_dropped": [
-    "DT_15",
-    "WEEKDAY_NAME",
-    "FECHA_dt",
-    "HORA",
-    "FECHA",
-    "DT",
-    "COORDENADAS",
-    "HORA_td",
     "HORA_15",
-    "UBICACION"
+    "DT",
+    "UBICACION",
+    "FECHA",
+    "FECHA_dt",
+    "HORA_td",
+    "COORDENADAS",
+    "WEEKDAY_NAME",
+    "HORA",
+    "DT_15"
   ],
   "encoders": {
     "UBICACION_FREQ_map": {
