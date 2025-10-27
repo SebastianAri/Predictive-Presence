@@ -1,18 +1,16 @@
 {
   "rf_lat_best_params": {
     "bootstrap": true,
-    "max_depth": 8,
-    "max_features": null,
-    "min_samples_leaf": 5,
-    "min_samples_split": 11,
-    "n_estimators": 350
+    "max_depth": 10,
+    "min_samples_leaf": 4,
+    "min_samples_split": 10,
+    "n_estimators": 150
   },
   "rf_lon_best_params": {
     "bootstrap": true,
-    "max_depth": 8,
-    "max_features": null,
+    "max_depth": 10,
     "min_samples_leaf": 5,
-    "min_samples_split": 11,
-    "n_estimators": 350
+    "min_samples_split": 5,
+    "n_estimators": 200
   }
 }

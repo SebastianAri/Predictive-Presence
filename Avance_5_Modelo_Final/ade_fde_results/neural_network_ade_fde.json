@@ -1,0 +1,26 @@
+[
+  {
+    "cluster": 1,
+    "ADE_m": 31902.81440321911,
+    "FDE_m": 52145.26522440491,
+    "model": "Neural Network"
+  },
+  {
+    "cluster": 2,
+    "ADE_m": 67296.26520525583,
+    "FDE_m": 49163.54771142309,
+    "model": "Neural Network"
+  },
+  {
+    "cluster": 3,
+    "ADE_m": 11731.900641580562,
+    "FDE_m": 4648.891833158368,
+    "model": "Neural Network"
+  },
+  {
+    "cluster": 4,
+    "ADE_m": 17503.192447830566,
+    "FDE_m": 20540.66309106675,
+    "model": "Neural Network"
+  }
+]

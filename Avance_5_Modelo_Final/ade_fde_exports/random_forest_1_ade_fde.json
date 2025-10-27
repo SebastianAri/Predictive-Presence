@@ -1,0 +1,26 @@
+[
+  {
+    "cluster": 1,
+    "ADE_m": 1466.8802404048172,
+    "FDE_m": 1433.0836798390017,
+    "model": "Random Forest 1"
+  },
+  {
+    "cluster": 2,
+    "ADE_m": 1844.2913148724137,
+    "FDE_m": 1833.6691613512453,
+    "model": "Random Forest 1"
+  },
+  {
+    "cluster": 3,
+    "ADE_m": 2320.2223080970552,
+    "FDE_m": 1427.2803578316896,
+    "model": "Random Forest 1"
+  },
+  {
+    "cluster": 4,
+    "ADE_m": 1472.5220423195747,
+    "FDE_m": 2534.0353502489443,
+    "model": "Random Forest 1"
+  }
+]

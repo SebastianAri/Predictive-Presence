@@ -1,0 +1,26 @@
+[
+  {
+    "cluster": 1,
+    "ADE_m": 1525.618921574017,
+    "FDE_m": 1430.5880416541436,
+    "model": "Gradient Boost"
+  },
+  {
+    "cluster": 2,
+    "ADE_m": 1956.418414492614,
+    "FDE_m": 1864.7000854155522,
+    "model": "Gradient Boost"
+  },
+  {
+    "cluster": 3,
+    "ADE_m": 2373.8189969886785,
+    "FDE_m": 1441.3378244353928,
+    "model": "Gradient Boost"
+  },
+  {
+    "cluster": 4,
+    "ADE_m": 1561.7942395358768,
+    "FDE_m": 2703.1465924252125,
+    "model": "Gradient Boost"
+  }
+]
